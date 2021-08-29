@@ -1,0 +1,19 @@
+{
+  "name": "task_6.1p",
+  "version": "1.0.0",
+  "description": "Task 6.1P REST API - Experts DB (iService App)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Corcoran",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5"
+  }
+}
